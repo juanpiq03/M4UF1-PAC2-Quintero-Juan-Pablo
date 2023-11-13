@@ -1,0 +1,22 @@
+th, td {
+    padding: 15px;
+    border: 1px solid;
+}
+
+th, td:hover {
+    background-color: peru;
+    border: hidden;
+    transition: 0.5s;
+}
+
+td {
+    text-align: center;
+}
+
+#taula{
+    padding-left: 32%;
+}
+
+h2 {
+    padding-bottom: 1.5em;
+}

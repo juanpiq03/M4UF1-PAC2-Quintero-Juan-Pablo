@@ -1,0 +1,17 @@
+article{
+    text-align: center;
+}
+
+section {
+    padding-bottom: 1.5em;
+}
+
+main p {
+    padding: 1em 2em;
+    word-spacing: 1.5px;
+}
+
+main p:hover{
+    background-color: peru;
+    transition: 1s;
+}

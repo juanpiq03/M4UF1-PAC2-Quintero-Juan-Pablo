@@ -1,0 +1,12 @@
+h1 {padding-bottom: 2em;}
+
+.video {
+    padding-bottom: 2em ;
+    border: 20px peru inset;
+    padding: 0;
+}
+
+.titleVideo {
+    padding-top: 2em;
+    padding-bottom: 1em;
+}
