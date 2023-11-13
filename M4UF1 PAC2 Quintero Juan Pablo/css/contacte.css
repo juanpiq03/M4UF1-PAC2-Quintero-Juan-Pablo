@@ -1,0 +1,17 @@
+#title {
+    padding-bottom: 1.5em;
+}
+
+#textInput[type=text]:focus {
+    background-color: darkorange;
+}
+
+#sendMail {
+    width: 300px;
+    height: 55px;
+}
+
+#sendMail:hover {
+    background-color: darkseagreen;
+    color: white;
+}

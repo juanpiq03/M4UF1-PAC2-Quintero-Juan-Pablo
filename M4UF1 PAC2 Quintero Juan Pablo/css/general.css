@@ -1,0 +1,8 @@
+main {
+    text-align: center;
+}
+
+main p:hover{
+    background-color: peru;
+    transition: 1s;
+}
